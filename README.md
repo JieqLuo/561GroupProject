@@ -1,21 +1,21 @@
 
-# ML MODELS COMPARISON ON IMAGE CLASSIFICATION 
+## ML MODELS COMPARISON ON IMAGE CLASSIFICATION 
 
 
-## Jiali Chen, Yongzheng Chen, Jieqiao Luo, Robin Wang
+### Jiali Chen, Yongzheng Chen, Jieqiao Luo, Robin Wang
 
 
-## This project study the difference between different machine learning models by applying them on the Fashion-MNIST dataset. The goal is to compare different classification methods used to predict the category of each image. PCA were performed before applying logistics regression and Support vector machine models. Same train-test split was used on the dataset for more direct comparison. Three machine learning algorithms were compared in this project, including:
+### This project study the difference between different machine learning models by applying them on the Fashion-MNIST dataset. The goal is to compare different classification methods used to predict the category of each image. PCA were performed before applying logistics regression and Support vector machine models. Same train-test split was used on the dataset for more direct comparison. Three machine learning algorithms were compared in this project, including:
 
 ![image](https://user-images.githubusercontent.com/68412645/144946084-75eab24a-3d18-467a-822b-60a199f50898.png)
 
-### Principal Components Analysis
+#### Principal Components Analysis
 
-### Logistic Regression
+#### Logistic Regression
 
-### Support Vector Machine
+#### Support Vector Machine
 
-### Convolutional Neural Network(ResNet-50)
+#### Convolutional Neural Network(ResNet-50)
 
 
 
